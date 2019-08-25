@@ -1,0 +1,9 @@
+.section {
+  background-color: pink;
+  text-align: center;
+}
+
+.section.one {
+  color: white;
+  background-color: #00b38a;
+}

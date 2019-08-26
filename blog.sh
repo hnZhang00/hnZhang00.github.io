@@ -2,6 +2,7 @@
 
 rm -rf blog
 cd ../hn-hexo
-hexo c
+hexo clean
 hexo g
+cp -r public ../hnZhang/blog
 cd ..
